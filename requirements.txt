@@ -1,0 +1,6 @@
+transformers
+datasets
+soundfile
+librosa
+scipy==1.1.0
+phonemizer
